@@ -1,0 +1,7 @@
+E:\dotNet\Assign1\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+E:\dotNet\Assign1\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+E:\dotNet\Assign1\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+E:\dotNet\Assign1\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.AssemblyReference.cache
+E:\dotNet\Assign1\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+E:\dotNet\Assign1\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+E:\dotNet\Assign1\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
