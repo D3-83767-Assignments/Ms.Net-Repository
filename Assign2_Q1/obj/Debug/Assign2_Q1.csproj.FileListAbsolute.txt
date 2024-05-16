@@ -1,0 +1,7 @@
+E:\dotNet\Assign1\Assign2_Q1\bin\Debug\Assign2_Q1.exe.config
+E:\dotNet\Assign1\Assign2_Q1\bin\Debug\Assign2_Q1.exe
+E:\dotNet\Assign1\Assign2_Q1\bin\Debug\Assign2_Q1.pdb
+E:\dotNet\Assign1\Assign2_Q1\obj\Debug\Assign2_Q1.csproj.AssemblyReference.cache
+E:\dotNet\Assign1\Assign2_Q1\obj\Debug\Assign2_Q1.csproj.CoreCompileInputs.cache
+E:\dotNet\Assign1\Assign2_Q1\obj\Debug\Assign2_Q1.exe
+E:\dotNet\Assign1\Assign2_Q1\obj\Debug\Assign2_Q1.pdb
