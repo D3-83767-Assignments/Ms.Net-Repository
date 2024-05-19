@@ -1,0 +1,14 @@
+E:\dotNet\Assign1\Assignment2_Q2\bin\Debug\net8.0\Assignment2_Q2.exe
+E:\dotNet\Assign1\Assignment2_Q2\bin\Debug\net8.0\Assignment2_Q2.deps.json
+E:\dotNet\Assign1\Assignment2_Q2\bin\Debug\net8.0\Assignment2_Q2.runtimeconfig.json
+E:\dotNet\Assign1\Assignment2_Q2\bin\Debug\net8.0\Assignment2_Q2.dll
+E:\dotNet\Assign1\Assignment2_Q2\bin\Debug\net8.0\Assignment2_Q2.pdb
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\Assignment2_Q2.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\Assignment2_Q2.AssemblyInfoInputs.cache
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\Assignment2_Q2.AssemblyInfo.cs
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\Assignment2_Q2.csproj.CoreCompileInputs.cache
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\Assignment2_Q2.dll
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\refint\Assignment2_Q2.dll
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\Assignment2_Q2.pdb
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\Assignment2_Q2.genruntimeconfig.cache
+E:\dotNet\Assign1\Assignment2_Q2\obj\Debug\net8.0\ref\Assignment2_Q2.dll
