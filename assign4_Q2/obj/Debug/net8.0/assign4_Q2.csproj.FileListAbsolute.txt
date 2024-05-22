@@ -1,0 +1,14 @@
+E:\dotNet\Assign1\assign4_Q2\bin\Debug\net8.0\assign4_Q2.exe
+E:\dotNet\Assign1\assign4_Q2\bin\Debug\net8.0\assign4_Q2.deps.json
+E:\dotNet\Assign1\assign4_Q2\bin\Debug\net8.0\assign4_Q2.runtimeconfig.json
+E:\dotNet\Assign1\assign4_Q2\bin\Debug\net8.0\assign4_Q2.dll
+E:\dotNet\Assign1\assign4_Q2\bin\Debug\net8.0\assign4_Q2.pdb
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\assign4_Q2.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\assign4_Q2.AssemblyInfoInputs.cache
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\assign4_Q2.AssemblyInfo.cs
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\assign4_Q2.csproj.CoreCompileInputs.cache
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\assign4_Q2.dll
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\refint\assign4_Q2.dll
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\assign4_Q2.pdb
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\assign4_Q2.genruntimeconfig.cache
+E:\dotNet\Assign1\assign4_Q2\obj\Debug\net8.0\ref\assign4_Q2.dll
