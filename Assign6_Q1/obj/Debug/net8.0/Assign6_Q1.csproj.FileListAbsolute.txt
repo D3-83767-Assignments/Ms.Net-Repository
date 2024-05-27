@@ -1,0 +1,14 @@
+E:\dotNet\Assign1\Assign6_Q1\bin\Debug\net8.0\Assign6_Q1.exe
+E:\dotNet\Assign1\Assign6_Q1\bin\Debug\net8.0\Assign6_Q1.deps.json
+E:\dotNet\Assign1\Assign6_Q1\bin\Debug\net8.0\Assign6_Q1.runtimeconfig.json
+E:\dotNet\Assign1\Assign6_Q1\bin\Debug\net8.0\Assign6_Q1.dll
+E:\dotNet\Assign1\Assign6_Q1\bin\Debug\net8.0\Assign6_Q1.pdb
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\Assign6_Q1.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\Assign6_Q1.AssemblyInfoInputs.cache
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\Assign6_Q1.AssemblyInfo.cs
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\Assign6_Q1.csproj.CoreCompileInputs.cache
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\Assign6_Q1.dll
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\refint\Assign6_Q1.dll
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\Assign6_Q1.pdb
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\Assign6_Q1.genruntimeconfig.cache
+E:\dotNet\Assign1\Assign6_Q1\obj\Debug\net8.0\ref\Assign6_Q1.dll
