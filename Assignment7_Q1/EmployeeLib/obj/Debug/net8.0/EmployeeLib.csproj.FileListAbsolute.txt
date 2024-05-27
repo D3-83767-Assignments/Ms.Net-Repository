@@ -1,0 +1,11 @@
+E:\dotNet\Assign1\EmployeeLib\bin\Debug\net8.0\EmployeeLib.deps.json
+E:\dotNet\Assign1\EmployeeLib\bin\Debug\net8.0\EmployeeLib.dll
+E:\dotNet\Assign1\EmployeeLib\bin\Debug\net8.0\EmployeeLib.pdb
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfoInputs.cache
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\EmployeeLib.AssemblyInfo.cs
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\EmployeeLib.csproj.CoreCompileInputs.cache
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\EmployeeLib.dll
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\refint\EmployeeLib.dll
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\EmployeeLib.pdb
+E:\dotNet\Assign1\EmployeeLib\obj\Debug\net8.0\ref\EmployeeLib.dll
